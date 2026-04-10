@@ -12,7 +12,7 @@ A simple and intuitive web application that allows you to pick colors from any i
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://iam269.github.io/Image-Color-Picker/](https://iam269.github.io/Image-Color-Picker/)
+Check out the live demo: [https://itsiamdev.github.io/Image-Color-Picker/](https://itsiamdev.github.io/Image-Color-Picker/)
 
 ## 🛠️ Technologies Used
 
